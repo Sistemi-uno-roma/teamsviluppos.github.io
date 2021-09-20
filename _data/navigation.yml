@@ -2,10 +2,12 @@ main:
   - title: "Servizi"
     url: /servizi/
   - title: "Soluzioni"
-    url: /tags/
+    url: /soluzioni/
   - title: "Settori"
-    url: /about/
+    url: /settori/
   - title: "Chi Siamo"
     url: /chi-siamo/
   - title: "Contattaci"
     url: /contattaci/
+  - title: "Configuratore Web"
+    url: /configuratore-web-3d/

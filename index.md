@@ -71,3 +71,4 @@ Offriamo una serie di servizi:
 Per maggori informazioni , consulta la <a href="/servizi"> pagina dei servizi </a>
 
 
+{% include subscribe-form.html %}

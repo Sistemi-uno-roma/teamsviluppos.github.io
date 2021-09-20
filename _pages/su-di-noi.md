@@ -29,3 +29,7 @@ Il 12 giugno 2017 abbiamo raggiunto il traguardo dei primi 20 anni di attività.
 
 
 Per quanto sopra, siamo Partner Sistemi Città, la massima espressione della competenza sul territorio per le soluzioni destinate ad Aziende, Commercialisti e Consulenti del lavoro.
+
+
+{% include subscribe-form.html %}
+
