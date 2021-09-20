@@ -1,0 +1,35 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+
+
+.fa-search {
+	color: #891626;
+}
+
+.greedy-nav .visible-links a:before {
+  background-color: #891626 !important;
+}
+
+.btn--primary {
+        background-color: #891626 !important;
+
+
+}
+
+#footer {
+
+
+
+	background-color: #891626;
+}
+
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+

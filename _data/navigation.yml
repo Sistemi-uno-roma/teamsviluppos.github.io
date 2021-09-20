@@ -1,0 +1,11 @@
+main:
+  - title: "Servizi"
+    url: /servizi/
+  - title: "Soluzioni"
+    url: /tags/
+  - title: "Settori"
+    url: /about/
+  - title: "Chi Siamo"
+    url: /chi-siamo/
+  - title: "Contattaci"
+    url: /contattaci/
