@@ -113,4 +113,8 @@ category_archive:
 #  path: /tags/
 
 repository:  teamsviluppos/website1
-mailchimp-list:
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-6E06E8HKK2"
+    anonymize_ip: false # default
