@@ -144,6 +144,7 @@ Ciascun prodotto (o classe di prodotti) può possedere un numero qualsiasi di ca
 
 ![Configuratore calcio](/assets/images/Con_Innova.png) 
 
+{% include subscribe-form.html %}
 
 ## Formule di calcolo
 

@@ -2,6 +2,15 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+
+.greedy-nav a.site-title{
+  display: none!important;
+}
+
+.site-logo img {
+  max-height: 4rem!important;
+}
+
 img {
   display: block;
   margin-left: auto;
@@ -26,10 +35,7 @@ img {
 
 button.greedy-nav {
   color: #891626 !important;
-
-
 }
-
 
 .fa-search {
 	color: #891626;
