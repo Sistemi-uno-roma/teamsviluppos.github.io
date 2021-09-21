@@ -2,6 +2,23 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+
+.toc .nav__title {
+  background-color: #891626 !important;
+}
+
+/* ICONA BURGER MENU */
+
+.navicon {
+  background: #891626 !important;
+}
+
+.navicon:before, .navicon:after {
+  background: #891626!important;
+}
+
+/*ICONA BURGER MENU*/
+
 button.greedy-nav {
   color: #891626 !important;
 
