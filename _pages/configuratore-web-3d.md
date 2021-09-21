@@ -84,6 +84,10 @@ La **mass customization** (espressione inglese traducibile come personalizzazion
 
 _fonte Wikipedia_  
 
+
+![Configuratore gioielli](/assets/images/Con_gioielli.png) 
+
+
 # **The Jdee Way** 
 ## La soluzione Jdee Configuration Engine 
 **Un configuratore commerciale dalla forte connotazione tecnica**
@@ -102,6 +106,7 @@ Il tutto navigando in modo visuale all’interno di una accattivante interfaccia
 
 L’utente avrà sempre il controllo dell’intero processo, potendo visionare costantemente l’impatto delle sue scelte, sia a livello grafico (i modelli 3d possono rendere la navigazione tra le opzioni davvero coinvolgente e realistica) che nel dettaglio offerto dalle box di riepilogo dove potrà apprezzare l’elenco completo dei vari componenti scelti ed il loro costo.
 
+![Configuratore scarpe](/assets/images/Con_nike.png) 
 
 # Le entità di base e principali caratteristiche
 ## Interfaccia grafica:
@@ -113,6 +118,10 @@ Due o tre dimensioni?
 Probabilmente non esiste una risposta certa valida per ogni prodotto, per quanto possa essere di sicuro impatto la scelta 3d potrebbe non essere adatta a prodotti che non fanno del loro aspetto un elemento significativo del processo di vendita.
 
 Per questo motivo l’amministratore di sistema potra decidere liberamente per ciascuna classe di oggetti se questa sarà rappresentata per mezzo di modelli 3d o semplici immagini 2d                                                                                                                                                                                                                                                                                                     
+
+
+![Configuratore Rocky](/assets/images/Rocky-min.png) 
+
 
 ## Content Management System
 
@@ -131,6 +140,10 @@ Se viceversa si desidera invocare la configurazione di uno specifico prodotto da
 Come già detto, Jdee pur non essendo un completo configuratore tecnico, fornisce alcune delle caratteristiche peculiari di questa categoria di prodotti ed è in grado di fornire all’azienda una distinta base completa di componenti, accessori e lavorazioni utilizzati per determinare il prezzo al cliente ma determinanti per la creazione di ordini di produzione dettagliati da trasmettere all’ERP aziendale
 
 Ciascun prodotto (o classe di prodotti) può possedere un numero qualsiasi di caratteristiche (o proprietà della classe), non tutte saranno visibili all’utente o soggette alla sua azione diretta, molte possono essere calcolate per definire grandezze necessarie alla produzione, questo processo è governato da un modulo di gestione di:
+
+
+![Configuratore calcio](/assets/images/Con_Innova.png) 
+
 
 ## Formule di calcolo
 
