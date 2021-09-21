@@ -103,6 +103,55 @@ Il tutto navigando in modo visuale all’interno di una accattivante interfaccia
 L’utente avrà sempre il controllo dell’intero processo, potendo visionare costantemente l’impatto delle sue scelte, sia a livello grafico (i modelli 3d possono rendere la navigazione tra le opzioni davvero coinvolgente e realistica) che nel dettaglio offerto dalle box di riepilogo dove potrà apprezzare l’elenco completo dei vari componenti scelti ed il loro costo.
 
 
+# Le entità di base e principali caratteristiche
+## Interfaccia grafica:
                                                                                                                                                                                                                                                                                                      
-                                                                                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                                                                                     
+Ponendosi soprattutto come configuratore commerciale l’interfaccia utente riveste un ruolo fondamentale e soprattutto è vitale che questa sia liberamente customizzabile dall’amministratore di sistema al fine di renderla il più possibile aderente alla linea grafica dell’azienda e del sito con cui dovrà coesistere.
+
+Due o tre dimensioni?
+
+Probabilmente non esiste una risposta certa valida per ogni prodotto, per quanto possa essere di sicuro impatto la scelta 3d potrebbe non essere adatta a prodotti che non fanno del loro aspetto un elemento significativo del processo di vendita.
+
+Per questo motivo l’amministratore di sistema potra decidere liberamente per ciascuna classe di oggetti se questa sarà rappresentata per mezzo di modelli 3d o semplici immagini 2d                                                                                                                                                                                                                                                                                                     
+
+## Content Management System
+
+Nei casi in cui l’azienda sceglierà di richiamare le pagine di configurazione partendo da un sito esistente, sarà opportuno rendere l’aspetto delle prime il più possibile coerente con le seconde, in modo da
+
+ottenere un insieme omogeneo e privo degli “strappi” che fanno la differenza tra un insieme armonico ed un brutto collage di applicazioni diverse.
+
+A questo scopo Jdee mette a disposizione un proprio modulo CMS che consente al personale grafico dell’azienda (o ai suoi consulenti in materia) di modellare ogni dettaglio delle pagine di configurazione fino ad ottenere l’effetto desiderato.
+
+## API Rest
+
+Se viceversa si desidera invocare la configurazione di uno specifico prodotto dall’interno di un portale esistente (come un e-commerce) senza dover necessariamente passare ad una pagina diversa, la risposta è il modulo API-REST che consente un dialogo tra le due applicazioni semplice e soprattutto sicuro.
+
+## Area Tecnica 
+
+Come già detto, Jdee pur non essendo un completo configuratore tecnico, fornisce alcune delle caratteristiche peculiari di questa categoria di prodotti ed è in grado di fornire all’azienda una distinta base completa di componenti, accessori e lavorazioni utilizzati per determinare il prezzo al cliente ma determinanti per la creazione di ordini di produzione dettagliati da trasmettere all’ERP aziendale
+
+Ciascun prodotto (o classe di prodotti) può possedere un numero qualsiasi di caratteristiche (o proprietà della classe), non tutte saranno visibili all’utente o soggette alla sua azione diretta, molte possono essere calcolate per definire grandezze necessarie alla produzione, questo processo è governato da un modulo di gestione di:
+
+## Formule di calcolo
+
+All’interno di ciascuna formula sono invocabili (come variabili) i valori assunti da ciascuna proprietà valorizzata dall’utente nel suo percorso di configurazione e sulla base di questi calcolare il valore della proprietà cui è associata la formula.
+
+Ad esempio potremmo avere tre proprietà visibili e valorizzabili numericamente in modo libero dall’utente chiamate “Altezza”, “Larghezza” e “Profondità”, una quarta proprietà “Materiale” potrebbe essere valorizzata dall’utente ma attraverso una scelta all’interno di una palette dei materiali disponibili, la proprietà “PesoSpecifico” potrebbe non essere visibile all’utente e valorizzata automaticamente in base al materiale, la proprietà Volume (sempre non visibile) valorizzata per mezzo di una formula basata sulle tre dimensioni, ed una proprietà Peso calcolata utilizzando Volume e PesoSpecifico
+
+Quest’ultima potrebbe essere utilizzata come condizionamento per la scelta di sezioni di travi o per l’inserimento automatico di componenti accessorie come dei rinforzi, il tutto attraverso la:
+
+## Logica dei condizionamenti 
+
+La struttura dei condizionamenti consente di guidare l’utente verso configurazioni valide e realizzabili, escludendo di volta in volta le scelte rese inutilizzabili dai valori assunti dalle diverse proprietà, o per mezzo di selezioni già fatte dall’utente o attraverso formule di calcolo.
+
+In questo modo un determinato tipo di illuminazione potrebbe non essere utilizzabile a causa del tipo di alimentazione scelto, piuttosto che alcune sezioni delle travi di supporto essere escluse dal peso o dalle dimensioni della struttura.
+
+Per la gestione di componenti che necessariamente debbono essere incluse in forza delle scelte operate nella configurazione corrente intervengono le
+
+## Strutture di codifica
+
+Le strutture di codifica rappresentano concettualmente il ponte tra le scelte degli utenti e l’insieme di prodotti e lavorazioni che serviranno a realizzare il modello generato.
+
+Il tramite tra il linguaggio utente, fatto di forme, colori ed opzioni ed il suo corrispettivo tecnico fatto di distinte basi, componenti, lavorazioni, prezzi …
+
+Per mezzo di queste ciascuna scelta fatta potrà portare ad uno o più codici prodotto e lavorazioni, di fatto sono lo strumento con cui addestrare il sistema a generare i codici commerciali che formeranno l’ordine di vendita e l’ordine alla produzione.                                                                                                                                                                                                                                                                                     
