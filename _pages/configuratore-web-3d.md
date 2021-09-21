@@ -109,7 +109,7 @@ L’utente avrà sempre il controllo dell’intero processo, potendo visionare c
 ![Configuratore scarpe](/assets/images/Con_nike.png) 
 
 # Le entità di base e principali caratteristiche
-## Interfaccia grafica:
+## Interfaccia grafica
                                                                                                                                                                                                                                                                                                      
 Ponendosi soprattutto come configuratore commerciale l’interfaccia utente riveste un ruolo fondamentale e soprattutto è vitale che questa sia liberamente customizzabile dall’amministratore di sistema al fine di renderla il più possibile aderente alla linea grafica dell’azienda e del sito con cui dovrà coesistere.
 
