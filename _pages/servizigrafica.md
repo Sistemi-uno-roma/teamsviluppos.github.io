@@ -33,6 +33,7 @@ author_profile : false
         
 ![Web_Design](/assets/images/ICON_WEB DESIGN.svg){:class="icona"}
 
+
 ## Web Design
             
 
@@ -53,9 +54,9 @@ author_profile : false
 * Cartellonistica, flyer e brochure 
 * Realizzazione di loghi e brand aziendali e personali 
 * Packaging 
-                  * Vetrofanie 
-                  * Video Editing 
-                  * Fotomanipolazione a scopo commerciale 
+* Vetrofanie 
+* Video Editing 
+* Fotomanipolazione a scopo commerciale 
                 
 ![Product_Design](/assets/images/ICON_PRODUCT.svg){:class="icona"}
 
