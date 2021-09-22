@@ -1,12 +1,11 @@
 ---
-title : "software erp"
+title : "Software ERP"
 layout : single
 permalink : /soluzioni/software-erp/
 author_profile : false
 ---
-## SOFTWARE ERP
 
-## Cos’è e come SCEGLIER UN software ERP
+## Cos’è e come scegliere un software ERP
 
 Il 90% del successo delle imprese dipende dalla sana e corretta gestione delle risorse interne e dei processi aziendali. Per questo motivo è importante affidare l&#8217;analisi e la valutazione di questi aspetti ad un ufficio specifico, composto di professionisti, che lavorano tramite un software ERP, acronimo che sta a significare Enterprise Resource Plannig. Se non sai cos&#8217;è, in questa guida ti verrà spiegato.
 
