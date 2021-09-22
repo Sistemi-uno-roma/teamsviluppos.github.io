@@ -20,7 +20,6 @@ Un prodotto completo, interconnesso, modulabile, che prende in carico qualsiasi 
 
 Un pacchetto di servizi che comprende anche il commerciale più puro, integrato con i sistemi di gestione di contabilità e fiscalità di cui Sistemi e leader assoluto. Un pacchetto che trova massima espressione in Esolevr, il software gestionale enterprise resource planning per ottimizzare la pianificazione delle risorse aziendali per grande e piccola distribuzione, al dettaglio e all&#8217;ingrosso, produzione e servizi.
 
-<img width="1024" height="683" src="https://s1r.it/wp-content/uploads/2021/07/manager-calculates-about-the-company-finances-by-p-DFPV99F-1-1024x683.jpg" alt="" loading="lazy" srcset="https://s1r.it/wp-content/uploads/2021/07/manager-calculates-about-the-company-finances-by-p-DFPV99F-1-1024x683.jpg 1024w, https://s1r.it/wp-content/uploads/2021/07/manager-calculates-about-the-company-finances-by-p-DFPV99F-1-300x200.jpg 300w, https://s1r.it/wp-content/uploads/2021/07/manager-calculates-about-the-company-finances-by-p-DFPV99F-1-768x512.jpg 768w, https://s1r.it/wp-content/uploads/2021/07/manager-calculates-about-the-company-finances-by-p-DFPV99F-1-1536x1024.jpg 1536w, https://s1r.it/wp-content/uploads/2021/07/manager-calculates-about-the-company-finances-by-p-DFPV99F-1.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 #### Dall&#8217;amministrazione alla vendita
 
@@ -47,3 +46,5 @@ Ancora Esolver, confermando di essere uno dei gestionali più completi ed evolut
 <p style="text-align: left;">
   Affiancamento con addetti aggiornati costantemente, webinar informativi, consulenze al top grazie a Simpresa, &#8220;la divisione Sistemi che sviluppa sistemi a supporto dell’innovazione di processo e del controllo di gestione&#8221;. Un ecosistema dinamico e sempre più ricco, che mette sempre il cliente e la sua soddisfazione al primo posto.
 </p>
+
+{% include subscribe-form.html %}

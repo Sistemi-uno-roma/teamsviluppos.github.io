@@ -23,6 +23,8 @@ ma anche:
   * Video Editing 
   * Fotomanipolazione a scopo commerciale 
 
+<a href="mailto:marketing@s1r.it" class="btn btn--primary">Richiedi un preventivo</a>
+
 ## DAI UN OCCHIATA AI NOSTRI LAVORI PRECEDENTI
 
 
@@ -32,4 +34,6 @@ ma anche:
 
 
 ## Articoli per la rivista Cioè
+
+{% include subscribe-form.html %}
 

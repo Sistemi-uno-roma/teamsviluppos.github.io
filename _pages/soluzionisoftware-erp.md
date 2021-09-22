@@ -26,3 +26,5 @@ Per scegliere un programma ERP appropriato, è importante valutare il tipo di at
 Per avere le idee più chiare in merito, <a href="_wp_link_placeholder" data-wplink-edit="true"><strong>www.sistemi.com </strong></a> offre un software ERP pensato per le aziende che distribuiscono &#8211; sia al dettaglio o alla produzione &#8211; oppure che offrano produzione e servizi. Le caratteristiche di questo software ERP spaziano dalla contabilità amministrativa e finanziaria e culminano nella gestione delle risorse produttive, una suita completa e compiuta per tenere sott&#8217;occhio a 360° la propria attività.
 
 Inoltre, sistemi.com ti offre anche la possibilità di gestire tutto in rete tramite il cloud, per permettere di lavorare ai tuoi dipendenti anche in smart working direttamente a casa: un pacchetto completo per un grande progetto!
+
+{% include subscribe-form.html %}

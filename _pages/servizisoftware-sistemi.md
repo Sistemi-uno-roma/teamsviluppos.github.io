@@ -1,5 +1,5 @@
 ---
-title : "software sistemi"
+title : "Software Sistemi"
 layout : single
 permalink : /servizi/software-sistemi/
 author_profile : false
@@ -45,3 +45,4 @@ Chi utilizza il nostro cloud, può lavorare in tranquillità, sicuro della riser
 e dell’integrità dei documenti.
 
 
+{% include subscribe-form.html %}

@@ -10,7 +10,7 @@ Stai avviando la tua nuova attività?
 O vuoi rinnovare l&#8217;immagine di una esistente con un tocco di freschezza?  
 **Abbiamo quel che fa per te!**
 
-<a href="mailto:marketing@s1r.it" role="button"><br /> RICHIEDI UN PREVENTIVO<br /> </a>  
+<a href="mailto:marketing@s1r.it" class="btn btn--primary">Richiedi un preventivo</a>
 
 
 ## COSA COMPRENDE IL SERVIZIO DI BRAND DESIGN?
@@ -32,8 +32,8 @@ Hai bisogno di un prodotto che non è nella lista?
 Cataloghi, libri, riviste, coupon, buoni regalo, etichette, insegne, cartelloni pubblicitari?
 
 
+<a href="mailto:chichimariacristina@hotmail.it" class="btn btn--primary">Contattaci</a>
 
-<a href="mailto:chichimariacristina@hotmail.it" role="button"><br /> CONTATTACI<br /> </a>
 
 Vuoi associare al tuo nuovo brand un **sito web** responsive fresco, giovane e dinamico?
 

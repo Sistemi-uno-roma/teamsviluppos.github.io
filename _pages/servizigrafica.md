@@ -1,11 +1,10 @@
 ---
-title : "Grafica"
 layout : single
 permalink : /servizi/grafica/
 author_profile : false
 ---
 
-![Banner_Grafica](/assets/images/BANNER-GRAFICA-01.jpg) 
+![Banner_Grafica](/assets/images/BANNER-GRAFICA-01.jpg){:class="banner"} 
 
 ![Brand_Design](/assets/images/ICON_BRAND-DESIGN.svg){:class="icona"} 
 
@@ -18,6 +17,9 @@ author_profile : false
 * Elaborazione e design di identitá aziendale e social identity 
 * Design e illustrazione di mascotte aziendali in 2D o 3D 
 * Vettorializzazione di immagini raster 
+
+<a href="/servizi/grafica/brand-design" class="btn btn--primary">Scopri di piú</a>{:class="margin-left"} 
+
     
 ![Editoria](/assets/images/ICON_EDITORIA.svg){:class="icona"}
 
@@ -30,8 +32,11 @@ author_profile : false
 * Elaborazione ed illustrazione di copertine 
 * Concept grafico ed elaborazione di collane editoriali 
 * Ritrattistica stylized o fotorealistica 
+
+<a href="/servizi/grafica/editoria" class="btn btn--primary">Scopri di piú</a>{:class="margin-left"} 
         
-![Web_Design](/assets/images/ICON_WEB DESIGN.svg){:class="icona"}
+
+![Web_Design](/assets/images/ICON_WEB-DESIGN.svg){:class="icona"}
 
 
 ## Web Design
@@ -45,6 +50,8 @@ author_profile : false
 * Elaborazione di identitá social aziendali e personali 
 * Realizzazione di grafiche social (banner, immagini profilo e copertina) 
 
+<a href="/servizi/grafica/web-design" class="btn btn--primary">Scopri di piú</a>{:class="margin-left"} 
+
  ![Marketing](/assets/images/ICON_MARKETING.svg){:class="icona"}        
             
 ## Marketing
@@ -57,6 +64,8 @@ author_profile : false
 * Vetrofanie 
 * Video Editing 
 * Fotomanipolazione a scopo commerciale 
+
+<a href="/servizi/grafica/marketing" class="btn btn--primary">Scopri di piú</a>{:class="margin-left"} 
                 
 ![Product_Design](/assets/images/ICON_PRODUCT.svg){:class="icona"}
 
@@ -67,3 +76,8 @@ author_profile : false
 * Design e progettazione di prodotti 
 * Design e progettazione di packaging 
 * Design e progettazione di borse e accessori moda
+
+<a href="/servizi/grafica/product-design" class="btn btn--primary">Scopri di piú</a>{:class="margin-left"} 
+
+
+{% include subscribe-form.html %}

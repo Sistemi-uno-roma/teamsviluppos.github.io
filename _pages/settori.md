@@ -45,10 +45,10 @@ Il 90% del successo delle imprese dipende dalla sana e corretta gestione delle r
 <a href="/settori/imprese-di-servizi" class="btn btn--primary">Imprese di servizi</a>
 
 
-## Microimpresa
+## Consulenti del lavoro
 
 La soluzione per organizzare e gestire al meglio le attivitá amministrative e gestionali di Commercialisti, Consulenti del Lavoro, Avvocati e CTU
 
-<a href="/settori/microimpresa" class="btn btn--primary">Microimpresa</a>
+<a href="/settori/settoriconsulenti-del-lavoro" class="btn btn--primary">Consulenti del lavoro</a>
 
 

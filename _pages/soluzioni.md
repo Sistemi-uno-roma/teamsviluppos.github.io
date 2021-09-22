@@ -4,6 +4,8 @@ layout : single
 permalink : /soluzioni/
 author_profile : false
 ---
+![Vision](/assets/images/VISION-01-min.jpg)
+
 
 Offriamo soluzioni in ogni area di business digitale. Dal marketing allo sviluppo software. Scopri i nostri servizi qui sotto
 
@@ -27,5 +29,7 @@ Il 90% del successo delle imprese dipende dalla sana e corretta gestione delle r
 La soluzione per organizzare e gestire al meglio le attivitá amministrative e gestionali di Commercialisti, Consulenti del Lavoro, Avvocati e CTU
 
 <a href="/soluzioni/software-gestionale-di-studio" class="btn btn--primary">Software Gestionale di Studio</a>
+
+{% include subscribe-form.html %}
 
 

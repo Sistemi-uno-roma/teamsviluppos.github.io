@@ -6,6 +6,7 @@ author_profile : false
 ---
 
 
+![Servizi](/assets/images/TEAM-01-min.jpg)
 
 Offriamo soluzioni in ogni area di business digitale. Dal marketing allo sviluppo software. Scopri i nostri servizi qui sotto
 
@@ -24,7 +25,7 @@ Fin dalla nostra fondazione abbiamo collaborato con Sistemi S.P.A. per offrire s
 
 <a href="/servizi/software-sistemi/" class="btn btn--primary">Software Sistemi</a>
 
-## grafica
+## Grafica
 
 Servizi di grafica digitale tarati per il tuo business. Dal brand design fino alla modellazione 3d!
 

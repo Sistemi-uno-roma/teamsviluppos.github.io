@@ -2,8 +2,36 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+
+.centra-pulsante{
+  display: block!important;
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.page__hero--overlay .page__title{
+ text-shadow: none!important;
+}
+
+body{
+  background-color:white;
+}
+
+
+.margin-left{
+  margin-left: 1.2rem;
+}
+
+.banner{
+  width: 100%;
+}
+
 .icona {
   max-width:20%;
+  float:left;
+  margin-right: 1rem;
+  
 }
 
 .greedy-nav a.site-title{
@@ -33,6 +61,11 @@ img {
 .navicon:before, .navicon:after {
   background: #891626!important;
 }
+
+.greedy-nav{
+  background-color: white!Important;
+}
+
 
 /*ICONA BURGER MENU*/
 
