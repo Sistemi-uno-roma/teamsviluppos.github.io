@@ -40,3 +40,26 @@ Vuoi associare al tuo nuovo brand un **sito web** responsive fresco, giovane e d
 Offriamo anche siti web completamente responsive, adatti a qualsiasi tipo di piattaforma, e sempre in linea con le tue esigenze!
 
 Dai un&#8217;occhiata alla **sezione sviluppo web**, o **invia una e-mail** per avere informazioni!
+
+<!-- {% include image-gallery.html folder="/assets/images/GRAFICA" %} -->
+
+## DAI UN OCCHIATA AI NOSTRI LAVORI PRECEDENTI
+
+![sito_befit](/assets/images/GRAFICA/befit-presentazione-sito-1.webp)
+
+<a href="mailto:marketing@s1r.it" class="btn btn--primary">Contattaci</a>{: .centra-pulsante}
+
+![sito_oscar](/assets/images/GRAFICA/sito-oscar.webp)
+
+<a href="mailto:marketing@s1r.it" class="btn btn--primary">Contattaci</a>{: .centra-pulsante}
+
+![sito_evol](/assets/images/GRAFICA/sito-evol.webp)
+
+<a href="mailto:marketing@s1r.it" class="btn btn--primary">Contattaci</a>{: .centra-pulsante}
+
+![sito_dantea](/assets/images/GRAFICA/sito-dantea.webp)
+
+<a href="mailto:marketing@s1r.it" class="btn btn--primary">Contattaci</a>{: .centra-pulsante}
+
+{% include subscribe-form.html %}
+

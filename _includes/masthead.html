@@ -1,0 +1,175 @@
+<nav id="navigation">
+        <a href="/index/" class="logo">
+            <img src="/assets/images/logo.png" alt="logo" style="height:42px; margin-left:3rem;">
+            </a>
+    <ul class="links">
+      <li><a href="/index/">Home</a></li>
+      <li class="dropdown"><a href="/servizi/" class="trigger-drop">Servizi<i class="arrow"></i></a>
+        <ul class="drop">
+          <li><a href="/servizi/formazione">Formazione</a></li>
+          <li><a href="/servizi/grafica">Grafica</a></li>
+          <li><a href="/servizi/marketing/">Marketing</a></li>
+          <li><a href="/servizi/software-sistemi/">Software</a></li>
+          <li><a href="/servizi/sviluppo-software/">Sviluppo</a></li>
+        </ul>
+      </li>
+      <li class="dropdown"><a href="/settori/" class="trigger-drop">Settori<i class="arrow"></i></a>
+        <ul class="drop">
+          <li><a href="/settori/associazione/">Associazione</a></li>
+          <li><a href="/settori/commercialisti/">Commercialisti</a></li>
+          <li><a href="/settori/consulenti-del-lavoro/">Consulenti del lavoro</a></li>
+          <li><a href="/settori/imprese-di-produzione/">Imprese di produzione</a></li>
+          <li><a href="/settori/imprese-di-servizi/">Imprese di servizi</a></li>
+          <li><a href="/settori/microimpresa/">Microimpresa</a></li>
+        </ul>
+      </li>
+      <li class="dropdown"><a href="/soluzioni/" class="trigger-drop">Soluzioni<i class="arrow"></i></a>
+        <ul class="drop">
+          <li><a href="/soluzioni/processo-di-digitalizzazione/">Processo di digitalizzazione</a></li>
+          <li><a href="/soluzioni/software-erp/">Software ERP</a></li>
+          <li><a href="/soluzioni/software-gestionale-di-studio/">Software Gestionale di studio</a></li>
+        </ul>
+      </li>
+      <li><a href="/chi-siamo/">Chi Siamo</a></li>
+      <li><a href="/contattaci/">Contatti</a></li>
+    </ul>
+  </nav>
+
+
+
+  <style>
+
+
+* {
+	 box-sizing: border-box;
+}
+
+#navigation {
+	 line-height: normal;
+	 font-size: 16px;
+	 font-family: sans-serif;
+}
+
+ a, a:hover {
+	 color: #891626;
+	 text-decoration: none;
+	 font-weight: 600;
+}
+ nav {
+	 position: fixed;
+	 left: 0;
+	 right: 0;
+	 top: 0;
+	 height: 50px;
+	 background: #fff;
+	 box-shadow: 0 0px 9px 4px rgba(0, 0, 0, .1), 0 -5px 2px 2px rgba(0, 0, 0, .1);
+	 z-index: 1000;
+	 min-width: 580px;
+}
+ nav .logo {
+	 position: relative;
+	 float: left;
+	 height: 50px;
+	 line-height: 50px;
+	 padding: 0 15px;
+	 font-size: 22px;
+	 font-weight: 900;
+	 text-transform: uppercase;
+}
+ nav .logo span {
+	 display: inline-block;
+	 position: relative;
+	 top: -8px;
+	 font-size: 13pt;
+}
+ nav .logo:hover {
+	 background: #eb808f;
+}
+ nav .links {
+	 float: right;
+	 margin-right: 10rem;
+	 position: relative;
+}
+ nav .links li {
+	 float: left;
+	 list-style: none;
+	 position: relative;
+	 margin: 10px;
+	 display: inline-block;
+}
+ nav .links li > a {
+	 position: relative;
+	 display: inline-block;
+	 padding: 0 10px;
+	 line-height: 30px;
+	 height: 30px;
+}
+ nav .links li > a:hover {
+	 color: #fff;
+	 background: #891626;
+	 border-radius: 2px;
+}
+ nav .links li > a[class^="trigger-"] {
+	 padding-right: 40px;
+}
+ nav .links li > a .arrow {
+	 position: absolute;
+	 width: 10px;
+	 height: 10px;
+	 top: 35%;
+	 text-align: center;
+	 right: 10px;
+	 border-width: 5px 5px 0 5px;
+	 border-style: solid;
+	 border-color: rgba(0, 0, 0, .3) transparent;
+}
+ nav .links li > a .arrow:after {
+	 content: "";
+	 border-left: 1px solid rgba(0, 0, 0, .15);
+	 top: -10px;
+	 left: -15px;
+	 position: absolute;
+	 height: 15px;
+}
+ nav .links li ul {
+	 position: absolute;
+	 left: 0;
+	 margin: 0;
+	 background: #fff;
+	 border-radius: 2px;
+	 box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+	 display: none;
+}
+ nav .links li ul > li {
+	 clear: both;
+	 list-style: none;
+	 display: block;
+	 padding: 0 10px;
+	 margin: 0;
+	 width: 100%;
+}
+ nav .links li ul > li:hover {
+	 background: #eb808f;
+}
+ nav .links li ul > li:hover > a {
+	 background: #eb808f;
+	 color: #fff;
+}
+ nav .links li:hover > .drop {
+	 display: block;
+	 animation: fadeInRight 0.3s ease;
+	 -webkit-animation: fadeInRight 0.3s ease;
+     width: max-content;
+}
+ @keyframes fadeInRight {
+	 0% {
+		 opacity: 0;
+		 transform: translate3d(100%, 0, 0);
+	}
+	 100% {
+		 opacity: 1;
+		 transform: none;
+	}
+}
+ 
+  </style>

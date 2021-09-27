@@ -1,5 +1,5 @@
 ---
-title : "commercialisti"
+# title : "commercialisti"
 layout : single
 permalink : /settori/commercialisti/
 author_profile : false
@@ -12,13 +12,13 @@ prodotta da Sistemi per supportare le attività dell’organizzazione dello stud
 
 Con la soluzione semplice, modulare ed integrata si soddisfano le esigenze di:
 
-    Pianificazione e gestione delle attività dello Studio.
+Pianificazione e gestione delle attività dello Studio.
 
-    Erogazione di servizi contabili e gestionali per le imprese.
+Erogazione di servizi contabili e gestionali per le imprese.
 
-    Erogazione di servizi fiscali.
+Erogazione di servizi fiscali.
 
-    Erogazione di servizi di gestione del personale e di elaborazione delle paghe.
+Erogazione di servizi di gestione del personale e di elaborazione delle paghe.
 
 
 
