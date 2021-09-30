@@ -2,7 +2,9 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-
+.page__title {
+  display: none;
+}
 .centra-pulsante{
   display: block!important;
   text-align:center;
@@ -407,6 +409,6 @@ strong.link-email-footer {
 
 
 //INIZIO NAVBAR
-s
+
 //FINE NAVBAR
 

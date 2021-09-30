@@ -4,14 +4,13 @@ layout : single
 permalink : /settori/consulenti-del-lavoro/
 author_profile : false
 ---
-## LA SOLUZIONE PER I CONSULENTI DEL LAVORO É
+## LA SOLUZIONE PER I CONSULENTI DEL LAVORO É JOB SISTEMI
 
-## JOB SISTEMI
 
 La soluzione multiaziendale e multicontrattuale che soddisfa le esigenze dei Consulenti del Lavoro che intendono gestire con semplicità ed efficienza tutte le diverse attività connesse all&#8217;amministrazione del personale: dall’elaborazione della busta paga al budget e all’analisi dei costi del personale.
 
-<a href="mailto:marketing@s1r.it" role="button"><br /> CHIEDI UNA DEMO<br /> </a>  
-<img width="250" height="140" src="https://s1r.it/wp-content/uploads/2021/06/logo_job-e1623853343102.png" alt="" loading="lazy" /> 
+
+<a href="mailto:marketing@s1r.it" class="btn btn--primary">Richiedi una demo</a>
 
 JOB consente di acquisire i dati da qualunque sistema di rilevazione presenze e si adatta a tutti i contratti nazionali.
 
@@ -46,7 +45,6 @@ L&#8217;Area Fiscale gestisce i modelli dichiarativi 730 e 770 in un unico ambie
 E’ possibile scegliere tra diverse modalità di utilizzo del software gestionale, licenza d’uso o Cloud, e individuare in maniera ancora più precisa, all&#8217;interno dell’ampia offerta, lo strumento di lavoro che meglio risponde alle necessità organizzative.
 
    
-<img width="250" height="140" src="https://s1r.it/wp-content/uploads/2021/06/logo_job-e1623853343102.png" alt="" loading="lazy" /> 
 
 ### Sicurezza informatica aziendale  
 
@@ -58,3 +56,6 @@ Forniamo consulenza e strumenti software per proteggere l’accesso a reti e ris
 ### DESlock+ Data Encryption 
 
 codifica tutti i tipi di dati sensibili per l’azienda e gestisce in remote tutti gli utenti e le workstation aziendali.
+
+
+{% include subscribe-form.html %}
