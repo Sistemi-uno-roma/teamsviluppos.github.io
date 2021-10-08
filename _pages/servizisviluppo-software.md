@@ -1,8 +1,9 @@
 ---
-title : "sviluppo software"
+title : " Sistemi Uno Roma srl | Sviluppo Software su misura"
 layout : single
 permalink : /servizi/sviluppo-software/
 author_profile : false
+description: "La tua attivitá ha esigenze che richiedono un software studiato su misura? Sistemi Uno Roma offre software personalizzati per risolvere ogni problematica."
 ---
 # Le prime impressioni contano!
 
