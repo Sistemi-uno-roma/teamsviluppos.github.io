@@ -118,3 +118,10 @@ analytics:
   google:
     tracking_id: "G-6E06E8HKK2"
     anonymize_ip: false # default
+
+head_scripts:
+  - https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js
+  - https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js
+
+after_footer_scripts:
+  - /assets/js/megamenu.js
