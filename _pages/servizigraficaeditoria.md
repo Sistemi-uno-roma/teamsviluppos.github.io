@@ -1,8 +1,9 @@
 ---
-title : "Editoria"
+title : "Sistei Uno Roma S.r.l. | Editoria"
 layout : single
 permalink : /servizi/grafica/editoria/
 author_profile : false
+description: "Hai scritto un libro ? Hai bisogno di una copertina dal design accattivante? Di qualcuno che si occupi di impaginare il tuo manoscritto? Ci pensiamo noi."
 ---
 ## EDITORIA
 

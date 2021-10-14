@@ -1,8 +1,9 @@
 ---
-title : "Brand Design"
+title : "Sistemi Uno Roma S.r.l. | Brand Design"
 layout : single
 permalink : /servizi/grafica/brand-design/
 author_profile : false
+description: "L'apparenza conta e quando si parla di loghi a volte l'abito fa il monaco. Dai al tuo brand una identitá difficile da dimenticare e inizia a guadagnare."
 ---
 ## CORPORATE IDENTITY
 

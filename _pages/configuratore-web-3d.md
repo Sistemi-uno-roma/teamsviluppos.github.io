@@ -1,12 +1,12 @@
 ---
-title : "Jdee"
+title : "Sistemi Uno Roma S.r.l. | Configuratori CPQ"
 layout : single
 permalink : /configuratore-web-3d/
 author_profile : false
 toc: true
 toc_label: "Tavola dei contenuti"
 toc_icon: "cog"
-
+description: "Hai un e-commerce e vorresti aumentare le vendite? Vuoi attirare piú clienti, ridurre i costi e semplificare la produzione? Prova i nostri configuratori 3D!"
 ---
 
 # Il Configuratore di Prodotto Web 3D

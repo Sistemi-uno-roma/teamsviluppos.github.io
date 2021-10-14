@@ -1,8 +1,9 @@
 ---
-# title : "commercialisti"
+title : "Sistemi Uno Roma S.r.l. | Software per commercialisti"
 layout : single
 permalink : /settori/commercialisti/
 author_profile : false
+description: "Sei un commercialista in cerca di un software che ti permetta di gestire bilanci contabili, fiscali e digitali? Sistemi Uno Roma é la software house per te."
 ---
 
 

@@ -1,8 +1,9 @@
 ---
-title : "Esolver"
+title : "Esolver | ERP Sistemi Uno Roma"
 layout : single
 permalink : /servizi/software-sistemi/esolver/
 author_profile : false
+description: " Esolver é il software ERP che integra tutte le attività aziendali in un unico sistema, agevolando e velocizzando la gestione delle PMI."
 ---
 
 

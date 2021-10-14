@@ -1,8 +1,9 @@
 ---
-title : "Consulenti del lavoro"
+title : "Sistemi Uno Roma S.r.l. | HR per i consulenti del lavoro"
 layout : single
 permalink : /settori/consulenti-del-lavoro/
 author_profile : false
+description: "Sei un consulente del lavoro in cerca di un software per gestire le HR in modo semplice e immediato ? Sistemi Uno Roma ha la soluzione adatta a te."
 ---
 ## LA SOLUZIONE PER I CONSULENTI DEL LAVORO É JOB SISTEMI
 
