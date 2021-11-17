@@ -2,6 +2,11 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@import "dark.css";
+@import "bootstrap.min.css";
+@import "font-awesome.min.css";
+@import "magnific-popup.css";
+
 .page__title {
   display: none;
 }
@@ -90,9 +95,6 @@ button.greedy-nav {
 }
 
 #footer {
-
-
-
 	background-color: #891626;
 }
 
@@ -106,6 +108,31 @@ button.greedy-nav {
 
 /* FOOTER */
 
+//@media (min-width: 80em)
+.page__footer footer {
+  max-width: none!important;
+}
+
+.page__footer {
+  margin-top:0rem;
+}
+
+.page {
+  width: 100%!important;
+  padding: 0!important;
+}
+
+.page .page-bottom .services-post .post-content {
+  min-height: 7rem;
+}
+.page__footer footer {
+  clear: both;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0rem!important;
+  max-width: 100%;
+  padding: 0rem!important;
+}
 
 .info-footer {
 
@@ -408,7 +435,5 @@ strong.link-email-footer {
 /* FINE FOOTER */
 
 
-//INIZIO NAVBAR
 
-//FINE NAVBAR
-
+//Fine gallery

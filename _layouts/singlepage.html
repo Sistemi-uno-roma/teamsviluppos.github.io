@@ -1,0 +1,55 @@
+---
+layout: default
+---
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+{% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+{% include page__hero_video.html %}
+{% endif %}
+
+
+<section class="page">
+
+    <div class="page-bottom">
+        <div class="container">
+            <div class="row">
+                <!-- ***** Page Content Start ***** -->
+                <div class="col-lg-8 col-md-12 col-sm-12">
+                    <div class="page-detail">
+                    {{ content }}
+                    </div>
+                </div>
+                <!-- ***** Page Content End ***** -->
+
+                <!-- ***** Aside Start ***** -->
+                <div class="col-lg-4 col-md-12 col-sm-12">
+                    <aside class="default-aside">
+                        <div class="sidebar">
+                            <ul>
+                                <li><a href="{{ site.baseurl }}/servizi/grafica/web-design/">Web Design</a></li>
+                                <li><a href="{{ site.baseurl }}/servizi/grafica/brand-design/">Brand Design</a></li>
+                                <li><a href="{{ site.baseurl }}/servizi/grafica/editoria/">Editoria</a></li>
+                                <li><a href="{{ site.baseurl }}/servizi/grafica/modellazione-3d/">Modellazione 3D</a></li>
+                                <li><a href="{{ site.baseurl }}/servizi/sviluppo-software">Sviluppo Software su Misura</a></li>
+                                <li><a href="{{ site.baseurl }}/servizi/marketing/digital-marketing">Digital Marketing</a></li>
+                                <li><a href="{{ site.baseurl }}/servizi/marketing/seo/">Seo</a></li>
+                                <li><a href="{{ site.baseurl }}/configuratore-web-3d/">Jdee Configuratore</a></li>
+                            </ul>
+
+                            <div class="box">
+                                <img src="{{ site.baseurl }}/assets/images/photos/servizi.jpg" alt="">
+                                <div class="hovered align-self-center">
+                                    <p>Vuoi un preventivo, una collaborazione, o hai bisogno di informazioni?</p>
+                                    <a href="{{ site.baseurl }}/contattaci/" class="btn-primary-line">Contattaci</a>
+                                </div>
+                            </div>
+                        </div>
+                    </aside>
+                </div>
+                <!-- ***** Aside End ***** -->
+            </div>
+        </div>
+    </div>
+    <!-- ***** Page Content End ***** -->
+</section>
+

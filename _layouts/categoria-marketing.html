@@ -1,0 +1,109 @@
+---
+layout: default
+---
+
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+{% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+{% include page__hero_video.html %}
+{% endif %}
+
+
+
+<!-- ***** Preloader Start ***** -->
+<div id="preloader">
+    <div class="jumper">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</div>
+<!-- ***** Preloader End ***** -->
+
+
+<!-- ***** Header Area End ***** -->
+
+
+<section class="page">
+    <!-- ***** Page Top Start ***** -->
+    <div class="cover" data-image="{{ site.baseurl }}/assets/images/photos/header.jpg">
+        <div class="cover-top">
+            <div class="container">
+                <div class="row">
+                    <div class="offset-lg-3 col-lg-6">
+                        <h1>Digital Marketing</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="cover-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <ol class="breadcrumb">
+                            <li><a href="{{ site.baseurl }}/index">Home</a></li>
+                            <li><a href="#">Servizi</a></li>
+                            <li class="active">Digital Marketing</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ***** Page Top End ***** -->
+
+
+    <!-- ***** Page Content Start ***** -->
+    <div class="page-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12">
+                    <a href="{{ site.baseurl }}/servizi/marketing/digital-marketing" class="services-post">
+                        <div class="img">
+                            <img src="{{ site.baseurl }}/assets/images/photos/digital-marketing-min.jpg" alt="">
+                        </div>
+                        <div class="post-content">
+                            <h3>Digital Marketing</h3>
+                            <div class="text" id="box-text">
+                                Uno dei principali obiettivi del marketing digitale é quello di aumentare la "brand awareness", ovvero quel processo che fa si che un consumatore riconosca un brand aldifuori del proprio contesto. Perché ció avvenga é imperativo adottare una stategia di marketing digitale mirata ed accuratamente studiata, che porti ad un aumento delle visualizzazioni e quindi dei guadagni dell'azienda.                           </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12">
+                    <a href="{{ site.baseurl }}/servizi/marketing/seo" class="services-post">
+                        <div class="img">
+                            <img src="{{ site.baseurl }}/assets/images/photos/seo.jpg" alt="">
+                        </div>
+                        <div class="post-content">
+                            <h3>Seo</h3>
+                            <div class="text" id="box-text">
+                                Il SEO (Search Engine Optimization) é una delle componenti del digital marketing, e consiste nel processo attraverso il quale la qualitá e la quantitá di traffico proveniente dai motori di ricerca di un sito web viene aumentata tramite una serie di procedure ed accorgimenti messi in atto da un tecnico specializzato.
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ***** Page Content End ***** -->
+</section>
+
+
+<!-- ***** Parallax Start ***** -->
+<section class="parallax" data-image="{{ site.baseurl }}/assets/images/photos/parallax.jpg">
+    <div class="parallax-content">
+        <div class="container">
+            <div class="row">
+                <div class="offset-lg-3 col-lg-6">
+                    <div class="info">
+                        <small>METTITI IN CONTATTO CON NOI</small>
+                        <strong>Che tu sia interessato ad un preventivo, una collaborazione, o semplicemente ad avere ulteriori informazioni su uno dei prodotti o servizi di Sistemi Uno Roma, saremo lieti di rispondere a ogni tua esigenza.  </strong>
+                        <a href="{{ site.baseurl }}/contatti" class="btn-white-line">Contattaci</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ***** Parallax End ***** -->

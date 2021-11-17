@@ -118,3 +118,18 @@ analytics:
   google:
     tracking_id: "G-6E06E8HKK2"
     anonymize_ip: false # default
+
+head_scripts:
+  - /assets/js/jquery-2.1.0.min.js
+  - /assets/js/jquery.counterup.min.js
+  - /assets/js/jquery.magnific-popup.min.js
+  - /assets/js/bootstrap.min.js
+  - /assets/js/scrollreveal.min.js
+  - /assets/js/imgfix.min.js
+  - /assets/js/map-script.js
+  - /assets/js/parallax.min.js
+  - /assets/js/popper.js
+  - /assets/js/waypoints.min.js
+
+footer_scripts:
+  - /assets/js/custom.js

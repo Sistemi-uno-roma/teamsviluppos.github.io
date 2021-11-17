@@ -1,0 +1,243 @@
+---
+layout: default
+---
+
+<!--{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}-->
+<!--{% include page__hero.html %}-->
+<!--{% elsif page.header.video.id and page.header.video.provider %}-->
+<!--{% include page__hero_video.html %}-->
+<!--{% endif %}-->
+
+<!--<div id="main" role="main">-->
+<!--    <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">-->
+<!--        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}-->
+<!--        {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}-->
+<!--        {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}-->
+<!--        {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}-->
+
+<!--        <section class="page__content" itemprop="text">-->
+<!--            {{ content }}-->
+<!--        </section>-->
+<!--    </article>-->
+<!--</div>-->
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+{% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+{% include page__hero_video.html %}
+{% endif %}
+
+
+
+<!-- ***** Header Area End ***** -->
+
+<section class="page">
+    <!-- ***** Page Top Start ***** -->
+    <div class="cover" data-image="assets/images/photos/header.jpg">
+        <div class="cover-top">
+            <div class="container">
+                <div class="row">
+                    <div class="offset-lg-3 col-lg-6">
+                        <h1>Contatti</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="cover-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <ol class="breadcrumb">
+                            <li><a href="index.html">Home</a></li>
+                            <li class="active">Contatti</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ***** Page Top End ***** -->
+
+
+    <!-- ***** Page Content Start ***** -->
+    <div class="page-bottom padding-top-0">
+        <!-- ***** Map Container Start ***** -->
+        <div class="section map">
+            <div class="item">
+                <!-- ***** Google Maps Start ***** -->
+                <div class="map-canvas"
+                     data-zoom="12"
+                     data-lat="41.86451495023608"
+                     data-lng="12.458650398059726"
+                     data-type="roadmap"
+                     data-hue="#ffc400"
+                     data-title="Sistemi Uno Roma"
+                     data-icon-path="assets/images/marker-dark.png"
+                     data-content="Viale di Vigna Pia 26,<br> 00149 - Roma [RM]<br><br><a href='mailto:info@s1r.it'>info@s1r.it</a>">
+                </div>
+                <!-- ***** Google Maps End ***** -->
+            </div>
+        </div>
+        <!-- ***** Map Container End ***** -->
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="contact">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6 col-sm-12">
+                                <div class="contact-item start">
+                                    <div class="icon">
+                                        <i class="fa fa-location-arrow"></i>
+                                    </div>
+                                    <p>Viale di Vigna Pia 26 <br>00149, Roma [RM]</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-12">
+                                <div class="contact-item">
+                                    <div class="icon">
+                                        <i class="fa fa-phone"></i>
+                                    </div>
+                                    <a href="tel:06 556 2250" class="testo-contact-item">06 556 2250</a>
+                                    <a href="tel:+39 06 556 2250" class="testo-contact-item">+39 06 556 2250</a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-12">
+                                <div class="contact-item end">
+                                    <div class="icon">
+                                        <i class="fa fa-envelope"></i>
+                                    </div>
+                                    <a href="mailto:info@s1r.it"  class="testo-contact-item">info@s1r.it</a>
+                                    <a href="mailto:marketing@s1r.it" class="testo-contact-item">marketing@s1r.it</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="contact-bottom">
+            <div class="container">
+                <div class="row">
+                    <!-- ***** Contact Text Start ***** -->
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <h5 class="margin-bottom-30">Contattaci subito!</h5>
+                        <div class="contact-text">
+                            <p>Che tu sia interessato ad un preventivo, una collaborazione, o semplicemente ad avere ulteriori informazioni su uno dei prodotti o servizi di Sistemi Uno Roma, saremo lieti di rispondere a ogni tua esigenza. </p>
+                            <p>Utilizza il form di contatto qui a destra oppure <a href="mailto:marketing@s1r.it">scrivici un'email</a>.</p>
+                        </div>
+                    </div>
+                    <!-- ***** Contact Text End ***** -->
+
+                    <!-- ***** Contact Form Start ***** -->
+                    <div class="col-lg-8 col-md-6 col-sm-12">
+
+                        <!-- Begin Mailchimp Signup Form -->
+                        <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+                        <style type="text/css">
+                            #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+                            /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+                               We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                        </style>
+                        <div id="mc_embed_signup">
+                            <form action="https://s1r.us6.list-manage.com/subscribe/post?u=81b3a86de0505e7fcc96aa56f&amp;id=dd9448b520" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                                <div id="mc_embed_signup_scroll">
+                                    <!--										<h4> Contattaci subito!</h4>-->
+                                    <div class="indicates-required"><span class="asterisk">*</span> Indica campo richiesto</div>
+                                    <div class="mc-field-group">
+                                        <label for="mce-EMAIL">Indirizzo Email  <span class="asterisk">*</span>
+                                        </label>
+                                        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                                    </div>
+                                    <div class="mc-field-group">
+                                        <label for="mce-FNAME">Nome </label>
+                                        <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+                                    </div>
+                                    <div class="mc-field-group">
+                                        <label for="mce-LNAME">Cognome </label>
+                                        <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+                                    </div>
+                                    <div class="mc-field-group size1of2">
+                                        <label for="mce-PHONE">Numero di telefono (opzionale) </label>
+                                        <input type="text" name="PHONE" class="" value="" id="mce-PHONE">
+                                    </div>
+                                    <div class="mc-field-group">
+                                        <label for="mce-MMERGE5">Messaggio </label>
+                                        <textarea type="text"  value="" name="MMERGE5" cols="5" id="mce-MMERGE5"></textarea>
+                                    </div>
+                                    <div id="mce-responses" class="clear">
+                                        <div class="response" id="mce-error-response" style="display:none"></div>
+                                        <div class="response" id="mce-success-response" style="display:none"></div>
+                                    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_81b3a86de0505e7fcc96aa56f_dd9448b520" tabindex="-1" value=""></div>
+                                    <div class="clear"><input type="submit"  value="Contattaci subito" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--primary"></div>
+                                </div>
+                            </form>
+                        </div>
+                        <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='MMERGE5';ftypes[5]='text'; /*
+ * Translated default messages for the $ validation plugin.
+ * Locale: IT
+ */
+                        $.extend($.validator.messages, {
+                            required: "Campo obbligatorio.",
+                            remote: "Controlla questo campo.",
+                            email: "Inserisci un indirizzo email valido.",
+                            url: "Inserisci un indirizzo web valido.",
+                            date: "Inserisci una data valida.",
+                            dateISO: "Inserisci una data valida (ISO).",
+                            number: "Inserisci un numero valido.",
+                            digits: "Inserisci solo numeri.",
+                            creditcard: "Inserisci un numero di carta di credito valido.",
+                            equalTo: "Il valore non corrisponde.",
+                            accept: "Inserisci un valore con un&apos;estensione valida.",
+                            maxlength: $.validator.format("Non inserire pi&ugrave; di {0} caratteri."),
+                            minlength: $.validator.format("Inserisci almeno {0} caratteri."),
+                            rangelength: $.validator.format("Inserisci un valore compreso tra {0} e {1} caratteri."),
+                            range: $.validator.format("Inserisci un valore compreso tra {0} e {1}."),
+                            max: $.validator.format("Inserisci un valore minore o uguale a {0}."),
+                            min: $.validator.format("Inserisci un valore maggiore o uguale a {0}.")
+                        });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+                        <style>
+                            #mc_embed_signup .button:hover {
+                                background-color: #000;
+                            }
+
+                            #mc_embed_signup .button {
+                                background-color: #94162b;
+                            }
+
+                            a {
+                                color: #94162b;}
+                        </style>
+                        <!--End mc_embed_signup-->
+
+
+                        <!--							<div class="contact-form">-->
+                        <!--								<div class="row">-->
+                        <!--									<div class="col-lg-6 col-md-12 col-sm-12">-->
+                        <!--										<input type="text" placeholder="Name, surname">-->
+                        <!--									</div>-->
+                        <!--									<div class="col-lg-6 col-md-12 col-sm-12">-->
+                        <!--										<input type="text" placeholder="E-Mail">-->
+                        <!--									</div>-->
+                        <!--									<div class="col-lg-12">-->
+                        <!--										<textarea placeholder="Your message"></textarea>-->
+                        <!--									</div>-->
+                        <!--									<div class="col-lg-12">-->
+                        <!--										<button class="btn-primary-line">SEND</button>-->
+                        <!--									</div>-->
+                        <!--								</div>-->
+                        <!--							</div>-->
+                    </div>
+                    <!-- ***** Contact Form End ***** -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ***** Page Content End ***** -->
+</section>
+
+
+
+<script src="http://maps.google.com/maps/api/js?key=AIzaSyAthC_2x5GtKhiH7rUumkMbwvp31qyFyA8"></script>
