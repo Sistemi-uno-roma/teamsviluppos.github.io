@@ -23,7 +23,7 @@ description: "Hai un e-commerce e vorresti aumentare le vendite? Vuoi attirare p
     <span class="circle" aria-hidden="true">
       <span class="icon arrow"></span>
     </span>
-    <span class="button-text"><a href="https://demo.jdeece.com/it/" class="button-text">Provalo Subito</a></span>
+    <span class="button-text"><a href="https://configuratore.com/" class="button-text">Provalo Subito</a></span>
   </button>
 </div>
 
