@@ -1,3 +1,5 @@
+
+<!--blocco vecchio form
 <form id="my-form" action="https://formspree.io/f/xzbozbbe" method="POST">
     <h3 style="margin-bottom: 1rem;"> Scrivici un messaggio e ti risponderemo al piú presto!</h3>
     <label>Email:</label>
@@ -52,3 +54,49 @@
        min-width: 6rem;
    }
 </style>
+
+-->
+<script>  function enableBtn() {
+    document.getElementById("mc-embedded-subscribe").disabled = false;
+}
+</script>
+<!-- form nuovo -->
+<form action="https://portale.s1r.it/api/richiesta/"      method="post" target="_blank">
+    <div id="mc_embed_signup_scroll">
+        <div class="indicates-required"><span class="asterisk"></span> </div>
+        <div class="mc-field-group">
+            <label for="mce-EMAIL">Indirizzo Email <span class="asterisk">*</span>
+            </label>
+            <input type="email" value="" name="email" class="required email" id="mce-EMAIL" aria-required="true">
+        </div>
+        <div class="mc-field-group">
+            <label for="mce-FNAME">Nome </label>
+            <input type="text" value="" name="nome" class="" id="mce-FNAME">
+        </div>
+        <div class="mc-field-group">
+            <label for="mce-LNAME">Cognome </label>
+            <input type="text" value="" name="cognome" class="" id="mce-LNAME">
+        </div>
+        <div class="mc-field-group size1of2">
+            <label for="mce-PHONE">Numero di telefono (opzionale) </label>
+            <input type="text" name="numero" class="valid" value="" id="mce-PHONE" aria-invalid="false">
+        </div>
+        <div class="mc-field-group">
+            <label for="mce-MMERGE5">Messaggio </label>
+            <textarea type="text" value="" name="messaggio" cols="5" id="mce-MMERGE5"></textarea>
+        </div>
+        <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
+        </div>
+        <div class="g-recaptcha" data-sitekey="6LfyriIiAAAAAGAF10NuDtxx6Bnp_5-Ay7PHPmVA" data-callback="enableBtn"></div>
+        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text"
+                   name="b_81b3a86de0505e7fcc96aa56f_dd9448b520"
+                   tabindex="-1" value=""></div>
+        <div class="clear"><input type="submit" disabled="disabled" value="Contattaci subito" name="subscribe" id="mc-embedded-subscribe"
+                                  class="button btn btn--primary"></div>
+    </div>
+</form>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<!-- fine form nuovo-->
