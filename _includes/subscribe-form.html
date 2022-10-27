@@ -116,7 +116,7 @@
                 url: 'https://portale.s1r.it/api/richiesta/',
                 data: $(this).serialize(),
                 success: function (response) {
-                    console.log('done')
+                    $('#success_alert').show();
                 }
             });
         }
