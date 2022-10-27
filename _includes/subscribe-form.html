@@ -99,6 +99,7 @@
                    id="mc-embedded-subscribe"
                    class="button btn btn--primary">
         </div>
+        <input type="hidden" name="captcha_token" id="captcha_token" value="" >
         <div class="alert alert-success" role="alert" id="success_alert" style="display: none;">
             Richiesta inviata!
         </div>
@@ -111,6 +112,7 @@
     $('#contact_form_id').submit(function (e) {
         e.preventDefault();
         if(grecaptcha.getResponse() !== ''){
+            $('#captcha_token').val(grecaptcha.getResponse())
             $.ajax({
                 type: 'POST',
                 url: 'https://portale.s1r.it/api/richiesta/',
