@@ -13,6 +13,8 @@ description: "La tua attivitá ha bisogno di un nuovo sito web dal design accatt
 
 Tutti i nostri siti web sono completamente responsive e adatti a tutte le tue esigenze.
 
+<a href="{{ site.baseurl }}/portfolio" class="btn btn--primary">Dai un occhiata ai nostri lavori</a>
+
 Ci occupiamo di :
  
 - **User Interface Design**
